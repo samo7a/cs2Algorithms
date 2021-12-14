@@ -1,0 +1,6 @@
+5 0 0
+-1 -1 Ahmed
+0 0 Samy
+2 -2 moataz
+2 2 moataz3
+3 4 salama

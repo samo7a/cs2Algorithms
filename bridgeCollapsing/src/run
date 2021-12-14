@@ -1,0 +1,8 @@
+#!/bin/bash
+javac Main.java
+echo "  "
+for var in {1..5} ;do
+echo "Case #$var.."
+time java Main < $var.txt
+echo "  "
+done
